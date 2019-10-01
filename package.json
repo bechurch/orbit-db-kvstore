@@ -26,6 +26,6 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "orbit-db-store": "next"
+    "orbit-db-store": "orbitdb/orbit-db-store#feat/identities"
   }
 }
