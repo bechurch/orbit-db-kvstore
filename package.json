@@ -26,6 +26,6 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "orbit-db-store": "~2.7.0"
+    "orbit-db-store": "orbitdb/orbit-db-store#fix/createStore"
   }
 }
